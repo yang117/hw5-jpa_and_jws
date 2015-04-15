@@ -8,10 +8,7 @@ import javax.xml.bind.annotation.*;
 import org.codehaus.jackson.annotate.JsonIgnore;
 
 
-/**
- * The persistent class for the equipment database table.
- * 
- */
+
 @Entity
 @XmlRootElement
 @XmlAccessorType(value=XmlAccessType.FIELD)
